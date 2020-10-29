@@ -1,4 +1,4 @@
 <?php
-header("Location: https://dspestcontrol.com/pest-control/");
+header("Location: https://actmca1.herokuapp.com/");
 die();
 ?>
